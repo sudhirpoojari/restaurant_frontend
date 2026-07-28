@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { X, Download, TrendingUp, DollarSign, CreditCard, ShoppingBag } from 'lucide-react';
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://restaurant-frontend-c2vc.onrender.com';
 
 export default function ReportModal({ onClose }) {
   const [reportData, setReportData] = useState(null);
