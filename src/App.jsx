@@ -9,7 +9,7 @@ import ReportModal from './components/ReportModal';
 import AddMenuItemModal from './components/AddMenuItemModal';
 import { X, RotateCcw } from 'lucide-react';
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://restaurant-frontend-c2vc.onrender.com';
 const RESTAURANT_UPI = 'merchant@upi'; 
 const RESTAURANT_NAME = 'Gourmet Diner';
 
