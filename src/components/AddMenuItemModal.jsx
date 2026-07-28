@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { X, Utensils } from 'lucide-react';
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://restaurant-frontend-c2vc.onrender.com';
 
 export default function AddMenuItemModal({ onClose, onMenuUpdated }) {
   const [name, setName] = useState('');
