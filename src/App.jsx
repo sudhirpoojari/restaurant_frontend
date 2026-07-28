@@ -11,7 +11,7 @@ import { X, RotateCcw } from 'lucide-react';
 
 const API_BASE = 'https://restaurant-frontend-c2vc.onrender.com';
 const RESTAURANT_UPI = 'merchant@upi'; 
-const RESTAURANT_NAME = 'Gourmet Diner';
+const RESTAURANT_NAME = 'Brahmisri Restaurant';
 
 export default function App() {
   const [menu, setMenu] = useState([]);
