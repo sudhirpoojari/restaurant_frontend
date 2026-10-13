@@ -1,3 +1,40 @@
+
+# Hi, I'm Sudhir Kumar K 👋
+### Senior Full-Stack Web Developer (8+ Years Experience)
+
+Specializing in architecting secure, scalable web applications, RESTful APIs, and database-driven portals across both **LAMP (PHP/MySQL)** and **MERN (MongoDB, Express, React, Node.js)** ecosystems. Extensive experience delivering high-availability e-governance infrastructure, third-party API integrations, and OWASP-compliant solutions.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Languages:** JavaScript (ES6+), PHP, HTML5, CSS3, SQL
+- **Frontend:** React.js, Tailwind CSS, Bootstrap 5, Axios, Responsive UI
+- **Backend & APIs:** Node.js, Express.js, PHP (Vanilla & CodeIgniter), RESTful APIs
+- **Databases:** MySQL (Schema Design, Indexing, Optimization), MongoDB (Mongoose)
+- **DevOps & Environments:** Linux, Apache, cPanel/WHM, Git & GitHub, Postman
+- **Security & Compliance:** OWASP Top 10 Hardening, S3WaaS (GIGW Web Accessibility Standards)
+
+---
+
+### 💼 What I Bring to the Table
+- **8+ Years Enterprise Experience:** Architecting public-sector portals, travel aggregators, and administrative dashboards.
+- **Security & Compliance First:** Proven record mitigating critical vulnerabilities (SQLi, XSS, CSRF) verified through formal cybersecurity audits.
+- **Full-Stack Execution:** From complex relational database schemas to responsive single-page applications.
+
+---
+
+### 📌 Pinned Repositories / Featured Work
+- **MERN Restaurant POS & Billing Platform:** Multi-table billing, UPI QR generation, Razorpay integration, and receipt printing.
+- **Election Staff HRMS & QR Verification:** Administrative allocation engine with automated QR check-in workflows.
+- **Custom PHP / CodeIgniter Travel Booking Engine:** Modular API aggregator for multi-vendor booking workflows.
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** (https://www.linkedin.com/in/sudhir-kumar-k-a6a6b6354/)
+- **Email:** sudhir.poojary1@gmail.com
+
 # 🍽️ Gourmet Diner - High-Performance MERN Restaurant POS & Billing System
 
 A fast, responsive, and production-ready Point of Sale (POS) & Billing web application built for restaurant counters. Designed using the **MERN Stack (MongoDB, Express.js, React 18, Node.js)** and **Tailwind CSS**, this system streamlines table management, quick order taking, instant invoice generation, and automated reporting.
